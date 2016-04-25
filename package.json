@@ -1,8 +1,8 @@
 {
   "name": "WHFNP Blogging Workshop",
-  "version": "3.3.0",
+  "version": "1.0.0",
   "description": "Reveal.js slides for the Women Hack for Non-Profits Blogging Workshop",
-  "homepage": "http://lab.hakim.se/reveal-js",
+  "homepage": "http://womenhackfornonprofits.github.io/whfnp-blogging-workshop",
   "subdomain": "revealjs",
   "main": "js/reveal.js",
   "scripts": {
@@ -10,13 +10,12 @@
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Women Hack for Non-Profits",
+    "web": "http://www.womenhackfornonprofits.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "git://github.com/womenhackfornonprofits/whfnp-blogging-workshop"
   },
   "engines": {
     "node": "~4.1.1"
