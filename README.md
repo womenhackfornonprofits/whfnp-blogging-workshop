@@ -2,7 +2,7 @@
 
 Supporting presentation for a Blogging workshop held by [Women Hack for Non-Profits](http://www.womenhackfornonprofits.com]).
 
-Slides available to view at [womenhackfornonprofits.github.io/whfnp-blogging-workshop](womenhackfornonprofits.github.io/whfnp-blogging-workshop) and made with the awesome, open source project [reveal.js](https://github.com/hakimel/reveal.js).
+Slides available to view at [womenhackfornonprofits.github.io/whfnp-blogging-workshop](http://womenhackfornonprofits.github.io/whfnp-blogging-workshop/#/) and made with the awesome, open source project [reveal.js](https://github.com/hakimel/reveal.js).
 
 Special thanks to [Ben Nadel](http://www.bennadel.com/) for sharing his top blogging tips.
 
