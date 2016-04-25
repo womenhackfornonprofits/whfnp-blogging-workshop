@@ -234,7 +234,8 @@ body {
 
 .reveal section img.plain {
   border: 0;
-  box-shadow: none; }
+  box-shadow: none;
+  background: transparent; }
 
 .reveal a img {
   -webkit-transition: all .15s linear;
@@ -308,3 +309,5 @@ body {
 
 .reveal small code {
   vertical-align: baseline; }
+
+/*# sourceMappingURL=blood.css.map */
