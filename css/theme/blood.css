@@ -234,7 +234,8 @@ body {
 
 .reveal section img.plain {
   border: 0;
-  box-shadow: none; }
+  box-shadow: none;
+  background: transparent; }
 
 .reveal a img {
   -webkit-transition: all .15s linear;
@@ -245,6 +246,9 @@ body {
   background: rgba(255, 255, 255, 0.2);
   border-color: #a23;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+.logo {
+  width: 50%; }
 
 /*********************************************
  * NAVIGATION CONTROLS
@@ -308,3 +312,5 @@ body {
 
 .reveal small code {
   vertical-align: baseline; }
+
+/*# sourceMappingURL=blood.css.map */
