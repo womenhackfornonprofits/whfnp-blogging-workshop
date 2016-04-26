@@ -9,7 +9,7 @@ Special thanks to [Ben Nadel](http://www.bennadel.com/) for sharing his top blog
 
 ## Simple Local Setup
 
-- Clone this repo: `git clone git@github.com:womenhackfornonprofits/womens-day-panel.git`
+- Clone this repo: `git clone git@github.com:womenhackfornonprofits/whfnp-blogging-workshop.git`
 - Open `index.html` in your browser
 
 
